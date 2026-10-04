@@ -95,12 +95,6 @@ I like turning ideas into things that actually run: an AI agent that talks to a 
 </details>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:B5EAD7,100:FFF3B0&height=80&section=header&text=Contribution%20activity&fontSize=28&fontColor=5C4B6B&fontAlignY=50" alt="Contribution activity" width="100%" />
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Flamingeas&bg_color=FFF5F9&color=6D597A&line=B28DC4&point=FF9EBB&area=true&area_color=E2CFEA&hide_border=true&radius=12&title_color=6D597A&custom_title=Contributions%20%C2%B7%20last%2031%20days" alt="Contribution activity graph" width="100%" />
-</div>
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFF3B0,100:FFDAC1&height=80&section=header&text=Now%20%26%20beyond%20the%20code&fontSize=28&fontColor=5C4B6B&fontAlignY=50" alt="Now and beyond the code" width="100%" />
 </div>
 
