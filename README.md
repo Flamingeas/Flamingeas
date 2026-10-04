@@ -95,7 +95,7 @@ I like turning ideas into things that actually run: an AI agent that talks to a 
 </details>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFF3B0,100:FFDAC1&height=80&section=header&text=Now%20%26%20beyond%20the%20code&fontSize=28&fontColor=5C4B6B&fontAlignY=50" alt="Now and beyond the code" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:BDE0FE,100:B5EAD7&height=80&section=header&text=Now%20and%20Beyond%20the%20Code&fontSize=28&fontColor=5C4B6B&fontAlignY=50" alt="Beyond the Code" width="100%" />
 </div>
 
 **Building and learning now**
@@ -121,9 +121,5 @@ I'm looking for a **2-year apprenticeship** where I can work on data, AI or back
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-A2D2FF?style=for-the-badge&logo=linkedin&logoColor=3D3550)](https://www.linkedin.com/in/samyra-mangan-mben)
 [![Email](https://img.shields.io/badge/Email-Say_hello-FFC8DD?style=for-the-badge&logoColor=3D3550)](mailto:samyra.mangan-mben@epitech.eu)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-CDB4DB?style=for-the-badge&logoColor=3D3550)](https://github.com/Flamingeas/modern-portfolio)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A2D2FF,50:CDB4DB,100:FFC8DD&height=130&section=footer&animation=twinkling" alt="footer" />
 
 </div>
