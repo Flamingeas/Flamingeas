@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC8DD,50:CDB4DB,100:A2D2FF&height=250&section=header&text=Samyra%20Mangan%20Mben&fontSize=46&fontColor=5C4B6B&fontAlignY=38&animation=twinkling&desc=Data%20%26%20AI%20student%20%C2%B7%20Backend%20%C2%B7%20Automation&descSize=18&descColor=6D597A&descAlignY=60" alt="Samyra Mangan Mben banner" />
-
 <a href="https://github.com/Flamingeas">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1400&color=9D7BB0&center=true&vCenter=true&width=620&lines=Data+and+AI+student+at+EPITECH+(Paris);I+build+AI+agents%2C+APIs+and+CI%2FCD+pipelines;Looking+for+a+2-year+apprenticeship+(alternance)" alt="Typing animation" />
 </a>
