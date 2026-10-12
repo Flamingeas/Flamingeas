@@ -101,10 +101,10 @@ I like turning ideas into things that actually run: an AI agent that talks to a 
 **Building and learning now**
 
 - **TradeLens**: a Symfony app that analyses trading performance from CSV exports
-- **AI Ghost Writer**: a writing assistant for creative authors (REST API + AI agent)
+- **AI Ghost Writer**: a writing assistant for creative authors (REST API + AI agent) (private github repository)
 - Deepening **Symfony, Doctrine and Twig**, and going further with **LLM agents and data engineering** in my MSc
 
-**Beyond the code**
+**Beyond the code (hobbies)**
 
 - **Reading**: psychology, dystopian fiction and thrillers (*1984*, *Mindhunter*), and money and markets (*The Psychology of Money*, *Trading in the Zone*)
 - **Financial markets**: I like analysing data to understand how decisions play out
@@ -120,6 +120,6 @@ I'm looking for a **2-year apprenticeship** where I can work on data, AI or back
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-A2D2FF?style=for-the-badge&logo=linkedin&logoColor=3D3550)](https://www.linkedin.com/in/samyra-mangan-mben)
 [![Email](https://img.shields.io/badge/Email-Say_hello-FFC8DD?style=for-the-badge&logoColor=3D3550)](mailto:samyra.mangan-mben@epitech.eu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-CDB4DB?style=for-the-badge&logoColor=3D3550)](https://github.com/Flamingeas/modern-portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-CDB4DB?style=for-the-badge&logoColor=3D3550)](https://flamingeas.github.io/modern-portfolio)
 
 </div>
